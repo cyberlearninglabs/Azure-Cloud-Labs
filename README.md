@@ -6,6 +6,7 @@ Azure Cloud Labs Portfolio
 Description:
 Hands-on Azure labs demonstrating identity and access management, networking, and security administration skills.
 
+
 Skills Demonstrated:
 Azure AD / Entra ID
 RBAC
@@ -13,6 +14,7 @@ Network Security Groups
 Virtual Networks
 IAM administration
 Logging and monitoring
+
 
 Labs in this Repository:
 Lab 1 – Azure Tenant Setup
