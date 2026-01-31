@@ -33,7 +33,7 @@ Jade successfully reset Zora Stone’s password.
 This simulates a real-world help desk or IT support task without requiring Global Administrator access.
 
 📸 Screenshot:
-![Password Reset Completed](../lab06-password-reset-success.png)
+![Password Reset Completed](lab06-reset-password.png)
 
 ---
 
@@ -46,7 +46,7 @@ Result:
 - Policy creation blocked
 
 📸 Screenshot:
-![Conditional Access Denied](../lab06-conditional-access-denied.png)
+![Conditional Access Denied](lab06-conditional-access-denied.png)
 
 This confirms that User Administrator permissions do not extend to security policy management.
 
@@ -59,7 +59,7 @@ This confirms that User Administrator permissions do not extend to security poli
 - **Global Admin**: Required for security policy configuration
 
 📸 Screenshot:
-![Jade Blocked vs Global Admin](../lab06-jade-vs-global-admin.png)
+![Jade Blocked vs Global Admin](lab06-jade-vs-global-admin.png)
 
 ---
 
