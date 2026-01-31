@@ -14,7 +14,14 @@
 - **Lab 1:** Azure Tenant Setup  
 - **Lab 2:** Virtual Network Configuration  
 - **Lab 3:** VM & Bastion Access  
-- **Lab 4:** IAM Roles & Permissions  
+- **Lab 4:** IAM Roles & Permissions
+
+## Lab 01 – Entra ID Tenant Setup
+
+![Entra ID Tenant Overview](images/Lab01-entra-tenant-overview.jpg)
+
+Built a dedicated Microsoft Entra ID tenant to simulate an enterprise IAM environment.
+
 
 ## Links
 - **LinkedIn:** https://www.linkedin.com/in/billyeboddie
