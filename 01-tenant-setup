@@ -26,10 +26,6 @@ Confirmed administrative access required for configuring users, groups, applicat
 Why This Matters
 A dedicated Entra ID tenant is the foundation of any cloud identity environment. This setup mirrors how organizations establish isolated identity boundaries and assign privileged roles to manage users, access, and security policies.
 
-Evidence
-Entra ID Overview page showing the WillowMora tenant configuration.
-
 ### Evidence
 
 ![Entra ID Overview – WillowMora Tenant](../entra-tenant-overview.jpg)
-
