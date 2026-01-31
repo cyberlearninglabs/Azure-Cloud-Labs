@@ -25,7 +25,7 @@ To simulate a real employee onboarding scenario, I created a new user account na
 This user serves as a test identity for future IAM policies and security controls.
 
 ### Evidence
-![User Created – Zora Stone](../Lab02-user-zora-stone.jpg)
+![User Created – Zora Stone](Lab02-user-zora-stone.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ To demonstrate application-level access control, I assigned Zora Stone access to
 This simulates how organizations grant employees access to business applications using identity-based controls.
 
 ### Evidence
-![Application Assigned to User](../Lab02-app-assignment.jpg)
+![Application Assigned to User](Lab02-app-assignment.jpg)
 
 ---
 
