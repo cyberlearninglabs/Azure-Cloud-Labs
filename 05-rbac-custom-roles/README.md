@@ -24,7 +24,7 @@ I created **Jade Windsor** as a second user in the WillowMora tenant with the jo
 This user represents a staff member who needs limited visibility into security data but should not modify tenant-wide settings.
 
 ### Evidence
-![Jade Windsor user profile](lab05-jade-user-profile.png)
+![Jade Windsor user profile](../lab05-jade-user-profile.png)
 
 ---
 
@@ -40,7 +40,7 @@ The Security Reader role allows read-only access to:
 This role **does not allow changes**, which demonstrates least privilege in action.
 
 ### Evidence
-![Jade Security Reader role assigned](lab05-jade-security-reader-role.png)
+![Jade Security Reader role assigned](../lab05-jade-security-reader-role.png)
 
 ---
 
@@ -59,7 +59,7 @@ To clearly demonstrate RBAC enforcement, I compared both users:
   - Cannot modify users, roles, or Conditional Access
 
 ### Evidence
-![Zora vs Jade role comparison](lab05-zora-vs-jade-roles.png)
+![Zora vs Jade role comparison](../lab05-zora-vs-jade-roles.png)
 
 ---
 
@@ -75,7 +75,7 @@ I logged into the Azure portal as **Jade Windsor** to validate her permissions.
 This confirms RBAC enforcement at the permission and UI level.
 
 ### Evidence
-![Conditional Access denied for Jade](lab05-jade-conditional-access-denied.png)
+![Conditional Access denied for Jade](../lab05-jade-conditional-access-denied.png)
 
 ---
 
@@ -93,7 +93,7 @@ This page lists built-in roles such as:
 It is also the entry point for creating **custom roles**.
 
 ### Evidence
-![Roles and administrators overview](lab05-roles-and-administrators-overview.png)
+![Roles and administrators overview](../lab05-roles-and-administrators-overview.png)
 
 ---
 
@@ -107,7 +107,7 @@ To demonstrate fine-grained RBAC, I created a **custom role** designed for help 
 - **Scope:** No global administrative privileges  
 
 ### Evidence
-![Custom role basics](lab05-custom-role-basics.png)
+![Custom role basics](../lab05-custom-role-basics.png)
 
 ---
 
@@ -120,7 +120,7 @@ I assigned limited permissions to the custom role, including:
 These permissions allow visibility without administrative control.
 
 ### Evidence
-![Custom role permissions](lab05-custom-role-permissions.png)
+![Custom role permissions](../lab05-custom-role-permissions.png)
 
 ---
 
@@ -129,7 +129,7 @@ These permissions allow visibility without administrative control.
 I reviewed the role configuration and completed creation.
 
 ### Evidence
-![Review and create custom role](lab05-custom-role-review-create.png)
+![Review and create custom role](../lab05-custom-role-review-create.png)
 
 ---
 
@@ -142,7 +142,7 @@ This demonstrates how **multiple roles** can be combined safely:
 - Read-only directory access
 
 ### Evidence
-![Custom role assigned to Jade](lab05-jade-custom-role-assigned.png)
+![Custom role assigned to Jade](../lab05-jade-custom-role-assigned.png)
 
 ---
 
@@ -156,7 +156,7 @@ After logging in as Jade again:
 This confirms correct RBAC scoping.
 
 ### Evidence
-![Jade read access validation](lab05-jade-read-access-validation.png)
+![Jade read access validation](../lab05-jade-read-access-validation.png)
 
 ---
 
