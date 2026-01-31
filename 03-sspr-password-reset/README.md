@@ -22,7 +22,7 @@ To safely test the feature, I enabled SSPR for **Selected users only** instead o
 - Prepared the environment to test the reset flow with Zora Stone
 
 ### Evidence
-![SSPR Enabled for Selected Users](./lab03-sspr-selected-users.jpg)
+![SSPR Enabled for Selected Users](../lab03-sspr-selected-users.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ To simulate a real-world scenario, I reset Zora’s password as an administrator
 - Simulated an expired/temporary credential scenario
 
 ### Evidence
-![Admin Password Reset – Temporary Password](./lab03-admin-password-reset.jpg)
+![Admin Password Reset – Temporary Password](../Lab03-admin-password-reset.jpg)
 
 ---
 
@@ -43,8 +43,9 @@ When Zora attempted to sign in with the temporary password, she was immediately 
 
 This confirms that SSPR integrates directly with login enforcement policies.
 
+
 ### Evidence
-![User Prompted to Update Password](./lab03-user-update-password.jpg)
+![User Prompted to Update Password](../Lab03-user-update-password.jpg)
 
 ---
 
@@ -54,7 +55,7 @@ After updating her password, Zora successfully accessed her account.
 This validates that the SSPR configuration worked end-to-end.
 
 ### Evidence
-![Successful Login – Zora Stone Account Overview](./lab03-successful-login.jpg)
+![Successful Login – Zora Stone Account Overview](../Lab03-successful-login.jpg)
 
 ---
 
@@ -64,7 +65,7 @@ To demonstrate identity automation at scale, I used **Microsoft Graph PowerShell
 This mirrors real-world scenarios where admins manage identity policies programmatically.
 
 ### Evidence
-![Microsoft Graph PowerShell – Disable Password Expiration](./lab03-graph-password-policy.jpg)
+![Microsoft Graph PowerShell – Disable Password Expiration](../Lab03-graph-password-policy.jpg)
 
 ---
 
