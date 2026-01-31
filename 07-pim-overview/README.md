@@ -31,8 +31,10 @@ This approach minimizes insider risk and strengthens security posture.
 - Logged into the **Microsoft Entra Admin Center**
 - Navigated to **Identity Governance → Privileged Identity Management (PIM)**
 
-📸 **Screenshot 1:** PIM landing page in Willowmora tenant
+ **Screenshot 1:** PIM landing page in Willowmora tenant
 
+### Evidence
+![Quick Start – Guide](../lab07-pim-quick-start-dashboard.png)
 ---
 
 ### Step 2: Reviewed the PIM Quick Start Dashboard
@@ -43,16 +45,16 @@ This approach minimizes insider risk and strengthens security posture.
   - **Approve** – Approval workflows for elevation
   - **Audit** – Visibility into role usage and history
 
-📸 **Screenshot 2:** PIM Quick Start dashboard showing Assign, Activate, Approve, and Audit
-
 ---
 
 ### Step 3: Attempted to View Roles and Assignments
 - Navigated to **Roles** and **Assignments**
 - Received a message indicating that **PIM requires a Premium (P2) license**
 
-📸 **Screenshot 3:** Premium feature notice when accessing PIM role assignments
+ **Screenshot 3:** Premium feature notice when accessing PIM role assignments
 
+### Evidence
+![Premium – Feature](../lab07-pim-premium-feature-notice.png)
 ---
 
 ### Step 4: Supplemental Learning (Theory Validation)
