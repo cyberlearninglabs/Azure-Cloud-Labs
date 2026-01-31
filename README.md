@@ -17,6 +17,4 @@
 - **Lab 4:** Conditional Access & MFA Enforcement
 
 
-## Links
-- **LinkedIn:** https://www.linkedin.com/in/billyeboddie
 
