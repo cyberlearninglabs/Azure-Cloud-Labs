@@ -22,8 +22,8 @@ I navigated to **Entra ID → Security → Conditional Access → New Policy** a
 - **Security Defaults:** Disabled to allow Conditional Access policies  
 
 ### Evidence
-![CA Policy Configuration](../lab04-ca-policy-configuration.jpg)  
-![Conditional Access Overview](../lab04-ca-policy-overview.jpg)
+![CA Policy Configuration](lab04-ca-policy-configuration.jpg)  
+![Conditional Access Overview](lab04-ca-policy-overview.jpg)
 
 ---
 
@@ -32,8 +32,8 @@ When Zora signed in from an incognito browser, Conditional Access enforced MFA.
 She was blocked from access until she completed MFA registration.
 
 ### Evidence
-![MFA Prompt Screen](../lab04-mfa-prompt.jpg)  
-![MFA Registration Success](../lab04-mfa-success.jpg)
+![MFA Prompt Screen](lab04-mfa-prompt.jpg)  
+![MFA Registration Success](lab04-mfa-success.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ To confirm enforcement, I reviewed **Entra ID → Sign-in logs** and filtered fo
 The Conditional Access tab showed the policy applied with **Result = Success**.
 
 ### Evidence
-![Sign-in Logs Success](../lab04-signin-logs-success.jpg)
+![Sign-in Logs Success](lab04-signin-logs-success.jpg)
 
 ---
 
