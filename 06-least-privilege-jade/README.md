@@ -22,9 +22,6 @@ She was able to:
 - View user profiles
 - Reset passwords
 
-📸 Screenshot:
-![Jade Reset Password Access](../lab06-reset-password.png)
-
 This confirms delegated user management permissions.
 
 ---
