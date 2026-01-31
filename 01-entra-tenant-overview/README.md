@@ -1,5 +1,3 @@
-01-tenant-setup/README.md
-
 Tenant Setup – WillowMora
 Date Completed: 10/01/2025
 Tools Used: Microsoft Entra ID, Azure Portal
