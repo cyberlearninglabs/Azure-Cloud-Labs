@@ -16,9 +16,9 @@
 - **Lab 3:** VM & Bastion Access  
 - **Lab 4:** IAM Roles & Permissions
 
-## Lab 01 – Entra ID Tenant Setup
+## Lab 01 – Entra ID Tenant Overview
 
-![Entra ID Tenant Overview](images/Lab01-entra-tenant-overview.jpg)
+![Entra ID Tenant Overview](Lab01-entra-tenant-overview.jpg)
 
 Built a dedicated Microsoft Entra ID tenant to simulate an enterprise IAM environment.
 
