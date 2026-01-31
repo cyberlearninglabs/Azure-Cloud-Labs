@@ -11,8 +11,8 @@
 - Logging & monitoring
 
 ## Labs in this Repository
-- **Lab 1:** Azure Tenant Setup  
-- **Lab 2:** Virtual Network Configuration  
+- **Lab 1:** Entra ID Tenant Setup
+- **Lab 2:** User Provisioning & Application Access 
 - **Lab 3:** VM & Bastion Access  
 - **Lab 4:** IAM Roles & Permissions
 
@@ -21,6 +21,14 @@
 ![Entra ID Tenant Overview](images/Lab01-entra-tenant-overview.jpg)
 
 Built a dedicated Microsoft Entra ID tenant to simulate an enterprise IAM environment.
+
+## Lab 02 – User Provisioning & Application Access
+
+![User Provisioning – Zora Stone](Lab02-user-zora-stone.jpg)
+![Application Assignment – Entra SAML Toolkit](Lab02-app-assignment.jpg)
+
+Demonstrates identity lifecycle management and application access control using Microsoft Entra ID.
+
 
 
 ## Links
