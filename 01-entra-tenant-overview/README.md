@@ -42,5 +42,5 @@ A dedicated Entra ID tenant is the foundation of any cloud identity environment.
 
 ### Evidence
 
-![Entra ID Overview – WillowMora Tenant](../Lab01-entra-tenant-overview.jpg)
+![Entra ID Overview – WillowMora Tenant](Lab01-entra-tenant-overview.jpg)
 
