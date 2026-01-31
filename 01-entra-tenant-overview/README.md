@@ -1,28 +1,44 @@
-Tenant Setup – WillowMora
-Date Completed: 10/01/2025
-Tools Used: Microsoft Entra ID, Azure Portal
+# Lab 01 – Tenant Setup (WillowMora)
 
-Lab Objective
+## Date Completed
+10/01/2025
+
+## Tools Used
+- Microsoft Entra ID
+- Azure Portal
+
+---
+
+## Lab Objective
 Create a dedicated Microsoft Entra ID tenant to simulate an enterprise identity environment for hands-on IAM and cloud security practice.
 
-What I Did
-Created a Microsoft 365 Business tenant using the fictional company name WillowMora
-Logged into the Azure Portal and switched context to the WillowMora tenant
-Verified Global Administrator privileges to ensure full access to identity and security configurations
+---
 
-Security / Cloud Concepts Applied
-Microsoft Entra ID tenant architecture
+## What I Did
+- Created a Microsoft 365 Business tenant using the fictional company name **WillowMora**
+- Logged into the Azure Portal and switched context to the WillowMora tenant
+- Verified **Global Administrator** privileges to ensure full access to identity and security configurations
 
-Identity tenant isolation
-Privileged role verification (Global Administrator)
-IAM foundational setup
+---
 
-Outcome
-Successfully established a standalone tenant representing an enterprise cloud environment
-Confirmed administrative access required for configuring users, groups, applications, and security controls in later labs
+## Security / Cloud Concepts Applied
+- Microsoft Entra ID tenant architecture
+- Identity tenant isolation
+- Privileged role verification (Global Administrator)
+- IAM foundational setup
 
-Why This Matters
-A dedicated Entra ID tenant is the foundation of any cloud identity environment. This setup mirrors how organizations establish isolated identity boundaries and assign privileged roles to manage users, access, and security policies.
+---
+
+## Outcome
+Successfully established a standalone tenant representing an enterprise cloud environment and confirmed administrative access required for managing users, groups, applications, and security controls.
+
+---
+
+## Why This Matters
+A dedicated Entra ID tenant is the foundation of any cloud identity environment. This setup mirrors how organizations isolate identity boundaries and prepare for secure user provisioning, application access, and Conditional Access enforcement.
+
+---
+
 
 ### Evidence
 
