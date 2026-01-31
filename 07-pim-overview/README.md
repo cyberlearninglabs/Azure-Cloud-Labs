@@ -34,7 +34,7 @@ This approach minimizes insider risk and strengthens security posture.
  **Screenshot 1:** PIM landing page in Willowmora tenant
 
 ### Evidence
-![Quick Start – Guide](../lab07-pim-quick-start-dashboard.png)
+![Quick Start – Guide](lab07-pim-quick-start-dashboard.png)
 ---
 
 ### Step 2: Reviewed the PIM Quick Start Dashboard
@@ -54,7 +54,7 @@ This approach minimizes insider risk and strengthens security posture.
  **Screenshot 3:** Premium feature notice when accessing PIM role assignments
 
 ### Evidence
-![Premium – Feature](../lab07-pim-premium-feature-notice.png)
+![Premium – Feature](lab07-pim-premium-feature-notice.png)
 ---
 
 ### Step 4: Supplemental Learning (Theory Validation)
